@@ -1,0 +1,10 @@
+View this project as a stand-alone work unconnected to any web framework yet.
+
+
+Set up your environment
+in your terminal, navigate to the project folder directory and
+
+npm install
+npm install -g live-server
+npm run start to open up the project
+
